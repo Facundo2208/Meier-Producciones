@@ -1,0 +1,24 @@
+body{
+    background: red;
+    $ancho: 720px;
+    $alto:480px;
+   .cuadrado{
+       height:5%;
+       color: $cool-white;
+       margin-top:100px;
+       margin-left:50%;
+   }
+   .h1{
+       font-size:20px;
+   }
+   .foto {
+    width: $ancho/7;
+    margin-left:35%;
+   }
+  .pack{
+    display:flex;
+    margin-left: 119px;
+  }
+ }
+
+ 
